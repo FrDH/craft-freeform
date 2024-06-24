@@ -28,9 +28,9 @@ return [
     // Form Builder // Universal
     'Forms' => 'Formulieren',
     'Cancel' => 'Annuleren',
-    'Saving' => 'Besparing',
-    'Save' => 'Redden',
-    'Close' => 'Dichtbij',
+    'Saving' => 'Opslaan',
+    'Save' => 'Opslaan',
+    'Close' => 'Sluiten',
     'Enabled' => 'Ingeschakeld',
     'empty' => 'leeg',
     'Loading data' => 'Gegevens laden',
@@ -69,7 +69,7 @@ return [
     // Form Builder // Layout // Property Editor
     'Label' => 'Label',
     'Field label used to describe the field' => 'Veldlabel dat wordt gebruikt om het veld te beschrijven',
-    'Handle' => 'Handvat',
+    'Handle' => 'Ingang',
     "How you'll refer to this field in templates" => 'Hoe u in sjablonen naar dit veld verwijst',
     'Instructions' => 'Instructies',
     'Field specific user instructions' => 'Veldspecifieke gebruikersinstructies',
